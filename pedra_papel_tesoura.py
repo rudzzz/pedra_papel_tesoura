@@ -4,6 +4,8 @@ pontos_usuario = 0
 pontos_pc = 0
 options = ['pedra','papel','tesoura']
 
+#alteração para commitar no git
+
 while True:
     print("\n--------------------------------------------------")
     print("Escolha uma das opções ou digite Sair para sair ")
